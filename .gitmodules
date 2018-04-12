@@ -1,4 +1,4 @@
 [submodule "core"]
 	path = core
 	url = https://github.com/XDagger/xdag.git
-	branch = master
+	branch = develop
